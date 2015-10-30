@@ -33,7 +33,7 @@ public class SecureTomcatConfiguration {
 
 
     /**
-     * Creates a secure ssl connector setting port, ssl key, and ssl password
+     * Creates a secure ssl connector setting port, ssl key, and keystore password
      * @return
      * @throws FileNotFoundException
      */
